@@ -10,21 +10,21 @@ Time spent: **2.50** hours spent in total
 
 The following **required** functionality is completed:
 
-- [ ] **User has 3 chances to guess a random 4 letter word**
-- [ ] **After 3 guesses, user should no longer be able to submit another guess**
-- [ ] **After each guess, user sees the "correctness" of the guess**
-- [ ] **After all guesses are taken, user can see the target word displayed**
+- [x] **User has 3 chances to guess a random 4 letter word**
+- [x] **After 3 guesses, user should no longer be able to submit another guess**
+- [x] **After each guess, user sees the "correctness" of the guess**
+- [x] **After all guesses are taken, user can see the target word displayed**
 
 The following **optional** features are implemented:
 
-- [ ] User can toggle betweeen different word lists
-- [ ] User can see the 'correctness' of their guess through colors on the word 
-- [ ] User sees a visual change after guessing the correct word
-- [ ] User can see a 'streak' record of how many words they've guessed correctly.
+- [x] User can toggle betweeen different word lists
+- [x] User can see the 'correctness' of their guess through colors on the word 
+- [x] User sees a visual change after guessing the correct word
+- [x] User can see a 'streak' record of how many words they've guessed correctly.
 
 The following **additional** features are implemented:
 
-* [ ] List anything else that you can get done to improve the app functionality!
+* [x] List anything else that you can get done to improve the app functionality!
 * [ ] the app can be improved if the user gets a hint of the word so that they can get correctly.
 
 ## Video Walkthrough
